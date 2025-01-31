@@ -34,15 +34,18 @@ let numValue = Number(value)
 
 let isLoggedIn = true
 let numIsLoggedIn = Number(isLoggedIn)
-console.log(numIsLoggedIn);
+// console.log(numIsLoggedIn); 
 
 
 let someString = 0
 let intoBoolean = Boolean(someString)
-console.log(intoBoolean)
+// console.log(intoBoolean)
 
 // string ---> Boolean
 // "" ---> false
 // " " ---> true
 // 123 ---> true
 // 0 ---> false
+
+
+// ********************** Operations *********************
