@@ -19,7 +19,8 @@ console.log(amount.toLocaleString('en-IN'))  //toLocaleString are used to separa
 // console.log(Math.max(23,4,5,63,2))
 // console.log(Math.min(23,4,5,63,2))
 
-const max = 30
-const min = 15
 
-console.log(  Math.floor(Math.random() * (max - min +1)) + min )
+const max = 50
+const min = 18;
+
+console.log( Math.floor(Math.random()* (max-min) + 1) + min )
